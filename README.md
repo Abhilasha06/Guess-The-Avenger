@@ -1,6 +1,6 @@
 # Guess-The-Avenger
 
-A project the identifies five of the avengers - Iron Man, Captain America, Dr. Strange, Black Widow and Captain Marvel.
+A project that identifies five of the avengers - Iron Man, Captain America, Dr. Strange, Black Widow and Captain Marvel.
 
 Face detection using mtcnn model and recognition using Facenet model.
 
